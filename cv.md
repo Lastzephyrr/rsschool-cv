@@ -44,3 +44,11 @@ Designer
 
 **Stepik**
 HTML/CSS
+
+
+## Languages
+
+* Russian
+* Ukrainian
+* English(B1)
+* French(A2)
